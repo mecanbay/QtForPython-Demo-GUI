@@ -9,4 +9,4 @@ Screenshots
 
 ![alt text](https://i.hizliresim.com/1lidve.png)
 ![alt text](https://i.hizliresim.com/tXSrmr.png)
-![alt text](https://imguploads.net/images/2021/02/12/ezgif.com-gif-maker-3.gif)
+![alt text](https://i.imgyukle.com/2021/02/12/L5qVMt.gif)
