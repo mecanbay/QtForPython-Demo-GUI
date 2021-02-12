@@ -9,7 +9,4 @@ Screenshots
 
 ![alt text](https://i.hizliresim.com/1lidve.png)
 ![alt text](https://i.hizliresim.com/tXSrmr.png)
-
-<b>GIF</b>
-
 ![alt text](https://i.imgyukle.com/2021/02/12/L5qebQ.gif)
