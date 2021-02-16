@@ -2,6 +2,11 @@
 <br>
 <b>
 https://www.youtube.com/user/VFXtestingWMP (Thank you to Wanderson.)<br>
+  
+```bash
+pip install pyside2
+```
+
 Screenshots
 <br>
 <br>
